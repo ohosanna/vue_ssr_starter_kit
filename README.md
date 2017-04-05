@@ -38,7 +38,6 @@ vue + vue-router + webpack + sass 服务端渲染项目基本配置
 |   |-- server-entry.js              // 服务器端入口文件
 |   |-- index.template.html          // 首页 html 模板文件
 |-- server.js                        // Node 服务器配置
-|-- package.json                     // 项目 nodejs 模块依赖
 |-- index.html                       // 程序入口 html 文件
 |-- README.md                        // 项目说明
 |-- package.json                     // 配置项目相关信息，通过执行 npm init 命令创建
